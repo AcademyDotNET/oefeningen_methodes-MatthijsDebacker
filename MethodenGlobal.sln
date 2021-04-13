@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opwarmers", "Opwarmers\Opwarmers.csproj", "{D4E0694D-F640-4BD9-B471-69E02B427A2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeBasis", "DeBasis\DeBasis.csproj", "{C6CA2A19-4760-41FA-B21F-55830615FCEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmDefault", "FilmDefault\FilmDefault.csproj", "{F61B09C7-8F10-4A57-B246-6A3AB056FC76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpwarmersMetGeavanceerdeMethoden", "OpwarmersMetGeavanceerdeMethoden\OpwarmersMetGeavanceerdeMethoden.csproj", "{09C21315-6EF5-4CFA-ADB5-96439FD72520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OudeOefeningenLeesbaarMaken", "OudeOefeningenLeesbaarMaken\OudeOefeningenLeesbaarMaken.csproj", "{848E7B91-8D36-4463-901F-A0B38685A2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziekEnMethoden", "MuziekEnMethoden\MuziekEnMethoden.csproj", "{76112287-BB99-4D24-8427-F2CA60E4E126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E0694D-F640-4BD9-B471-69E02B427A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E0694D-F640-4BD9-B471-69E02B427A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E0694D-F640-4BD9-B471-69E02B427A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E0694D-F640-4BD9-B471-69E02B427A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CA2A19-4760-41FA-B21F-55830615FCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CA2A19-4760-41FA-B21F-55830615FCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CA2A19-4760-41FA-B21F-55830615FCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CA2A19-4760-41FA-B21F-55830615FCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61B09C7-8F10-4A57-B246-6A3AB056FC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61B09C7-8F10-4A57-B246-6A3AB056FC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61B09C7-8F10-4A57-B246-6A3AB056FC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61B09C7-8F10-4A57-B246-6A3AB056FC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C21315-6EF5-4CFA-ADB5-96439FD72520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C21315-6EF5-4CFA-ADB5-96439FD72520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C21315-6EF5-4CFA-ADB5-96439FD72520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C21315-6EF5-4CFA-ADB5-96439FD72520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848E7B91-8D36-4463-901F-A0B38685A2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848E7B91-8D36-4463-901F-A0B38685A2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848E7B91-8D36-4463-901F-A0B38685A2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848E7B91-8D36-4463-901F-A0B38685A2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76112287-BB99-4D24-8427-F2CA60E4E126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76112287-BB99-4D24-8427-F2CA60E4E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76112287-BB99-4D24-8427-F2CA60E4E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76112287-BB99-4D24-8427-F2CA60E4E126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEDC5AD-E862-4601-B3AF-DF8DCBFA69F0}
+	EndGlobalSection
+EndGlobal
